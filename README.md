@@ -12,7 +12,6 @@ If you find anything incorrect, please let me know. Thanks!
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2023 | **Anti-Money Laundering by Group-Aware Deep Graph Learning** | IEEE TKDE| [Link](https://ieeexplore.ieee.org/document/10114503) |  [Link] | 
-| 2023 | **Competence of graph convolutional networks for anti-money laundering in bitcoin blockchain** | ICMLT | [Link](https://dl.acm.org/doi/10.1145/3409073.3409080) |  [Link] | 
 | 2023 | **Anti-Money Laundering in Cryptocurrency via Multi-Relational Graph Neural Network** | PAKDD | [Link](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_10) |  [Link] | 
 | 2023 | **Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering** | KDD | [Link](https://dl.acm.org/doi/abs/10.1145/3580305.3599806) |  [Link]| 
 | 2023 | **Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network** | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26656) |  [Link] | 
@@ -23,13 +22,18 @@ If you find anything incorrect, please let me know. Thanks!
 |-------|--------|--------|--------|-----------|
 | 2021 | **Money laundering and terrorism financing detection using neural networks and an abnormality indicator** | Expert System With Applications | [Link](https://www.sciencedirect.com/science/article/pii/S0957417420311209) |  Link |
 
+### 2020
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2020 | **Competence of graph convolutional networks for anti-money laundering in bitcoin blockchain** | ICMLT | [Link](https://dl.acm.org/doi/10.1145/3409073.3409080) |  [Link] | 
 
 ### 2019 and before
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2019 | **Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics** | KDD | [Link](https://arxiv.org/abs/1908.02591) |  Link |
 | 2019 | **Characterizing and Detecting Money Laundering Activities on the Bitcoin Network** | arXiv | [Link](https://arxiv.org/abs/1912.12060) |  Link |
-
+| 2018 | **Nextgen AML: Distributed Deep Learning Based Language Technologies to Augment Anti Money Laundering Investigation** | ACL | [Link](https://aclanthology.org/P18-4007/) |  Link |
+| 2017 | **Detection of Money Laundering Groups: Supervised Learning on Small Networks** | AAAI | [Link](https://cdn.aaai.org/ocs/ws/ws0302/15101-68325-1-PB.pdf) |  Link |
 
 ## AML Survey Papers
 | Year   | Title  | Venue |  Paper | Code  |
